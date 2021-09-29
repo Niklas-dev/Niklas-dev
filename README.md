@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Niklas-dev
-- 👀 I’m interested in Flutter and Python.
-- 🌱 I’m currently learning App development.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m really intrested in Software and Webdevelopment
+- 🌱 I’m currently working with Javascript(React), Dart(Flutter) and Python for Data Sience
 - 📫 How to reach me ...
 
 <!---
