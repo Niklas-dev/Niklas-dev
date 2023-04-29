@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hey I am Niklas-dev. I am currently working with typescript and python to create fullstack applications for the web. I love to create complex apps and solve problems.
 
 
 # 💻 Tech Stack:
