@@ -13,9 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Niklas-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Niklas-dev&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Niklas-dev&limit=3&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Niklas-dev&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
