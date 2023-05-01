@@ -47,14 +47,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Niklas-dev/Niklas-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/BUbMgQBShZOcMPohgn/giphy.gif?cid=ecf05e47920xlf43ly0sxleo64uowf7cr4pak4163bmohskv&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Niklas-dev/Niklas-dev/output/snake.svg" alt="Snake animation" />
 
 ###
