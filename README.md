@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hello there, I'm a 17-year-old Full-Stack Developer based in North Germany. Apart from programming, I also enjoy playing tennis and video games.<br><br>My primary interest is in full-stack development, and I have experience working with React, Next.js, Django, FastAPI, and Flask. I have worked on several projects in the past, including Namenation, a website that tells you the background of your name; my portfolio website; New Deeper Learning, a website for a school project about health insurance; a React-Django Todo App, a simple to-do list application built with React and Django; and a self-driving car with Raspberry Pi using deep learning.<br><br>Currently, I'm focusing on learning new technologies and finishing my portfolio site. Additionally, I'm working on a community-driven Geo Guessing game.<br><br>I love contributing to interesting open-source projects that can teach me something new or help make the world a better place. I've already contributed to the Treetracker project. I'm interested in all kinds of collaborations that can help me learn and progress, so if you have any exciting projects, don't hesitate to contact me.<br><br>Thanks for stopping by!</p>
+<p align="center">Hello there, I'm a 17-year-old Full-Stack Developer based in North Germany. Apart from programming, I also enjoy playing tennis and video games.<br><br>My primary interest is in full-stack development, and I have experience working with React, Next.js, Django, FastAPI, and Flask. I have worked on several projects in the past, including Namenation, a website that tells you the background of your name; my portfolio website; New Deeper Learning, a website for a school project about health insurance; a React-Django Todo App, a simple to-do list application built with React and Django; and a self-driving car with Raspberry Pi using deep learning.<br><br>Currently, I'm focusing on learning new technologies and finishing my portfolio site. Additionally, I'm working on a community-driven geo guessing game.<br><br>I love contributing to interesting open-source projects that can teach me something new or help make the world a better place. I've already contributed to the Treetracker project. I'm interested in all kinds of collaborations that can help me learn and progress, so if you have any exciting projects, don't hesitate to contact me.<br><br>Thanks for stopping by!</p>
 
 ###
 
@@ -33,7 +33,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Niklas-dev&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5" height="200" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Niklas-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Niklas-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
