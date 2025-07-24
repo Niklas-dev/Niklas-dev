@@ -1,14 +1,15 @@
 # 👨‍💻 Niklas | Full-Stack Engineer & AI Innovator
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=Full-Stack+Developer+%7C+Problem+Solver;AI+%26+Machine+Learning+Engineer;Building+Tomorrow's+Digital+Solutions;Open+to+New+Opportunities+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=Full-Stack+Developer+%7C+Problem+Solver;AI+%26+Machine+Learning+Engineer;YouTube+Creator+%7C+Tech+Educator;Building+Tomorrow's+Digital+Solutions;Open+to+New+Opportunities+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  **🌐 Portfolio:** [niklasdev.pro](https://niklasdev.pro/) | **📧 Open to Opportunities**
+  **🌐 Portfolio:** [niklasdev.pro](https://niklasdev.pro/) | **📺 YouTube:** [@niklasdoesdev](https://www.youtube.com/@niklasdoesdev) | **📧 Open to Opportunities**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niklas-l-2279b1376)
+  [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@niklasdoesdev)
   [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:niklas.developers@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-FF6B6B?style=for-the-badge&logo=web)](https://niklasdev.pro/)
   
@@ -18,14 +19,37 @@
 
 ## 🎯 Professional Summary
 
-> **Passionate Full-Stack Developer** with proven expertise in building scalable web applications and AI-powered solutions. Combining technical excellence with business acumen to deliver impactful digital products that drive results.
+> **Passionate Full-Stack Developer & Tech Educator** with proven expertise in building scalable web applications, AI-powered solutions, and sharing knowledge through content creation. Combining technical excellence with business acumen to deliver impactful digital products that drive results.
 
 **🚀 What I Bring to Your Team:**
 - **End-to-End Development**: React/Next.js frontends + Django/FastAPI backends
 - **AI/ML Integration**: TensorFlow, deep learning, and intelligent automation
 - **Performance Optimization**: Scalable architectures handling real-world traffic
+- **Content Creation**: YouTube channel teaching development concepts to the community
 - **Team Collaboration**: Open-source contributor with strong communication skills
 - **Problem-Solving Mindset**: Transform complex requirements into elegant solutions
+
+---
+
+## 📺 Content Creation & Community Impact
+
+<div align="center">
+
+### 🎬 **YouTube Channel: @niklasdoesdev**
+
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCyCPRXeMHWgKFztu1a6QxRg?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000)](https://www.youtube.com/@niklasdoesdev)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCyCPRXeMHWgKFztu1a6QxRg?style=for-the-badge&logo=youtube&logoColor=white&label=Total%20Views&color=FF0000)](https://www.youtube.com/@niklasdoesdev)
+
+</div>
+
+**🎯 Channel Focus:**
+- **Development Tutorials**: Step-by-step coding guides and best practices
+- **Project Walkthroughs**: Building real-world applications from scratch
+
+
+**🔥 Featured Content:**
+- **Most Watched**: [My Most Popular Tutorial](https://www.youtube.com/watch?v=dntaWShszR4&t=33s) - *Teaching developers practical implementation techniques for fastapi*
+- **Educational Impact**: Helping developers worldwide learn modern web development
 
 ---
 
@@ -42,6 +66,7 @@
 | **🏥 Healthcare Platform** | Next.js, FastAPI, PostgreSQL | Streamlined health insurance education for **500+ students** |
 | **🌍 Geo Gaming Platform** | React, Django, Real-time APIs | **In Development** - Community-driven geographic challenge game |
 | **✅ Enterprise Todo System** | React, Django REST, Redis | Production-ready task management with advanced filtering & analytics |
+| **📺 YouTube Channel** | Content Creation, Teaching | **Growing community** of developers learning modern web development |
 
 ### 🔧 **Technical Expertise**
 
@@ -64,6 +89,11 @@
 - **Cloud Platforms**: Experience with modern deployment strategies
 - **Version Control**: Git workflows, code review best practices
 - **Development Tools**: PyCharm, VS Code, debugging and profiling
+
+**Content Creation & Communication**
+- **Video Production**: Technical tutorial creation and editing
+- **Technical Writing**: Clear documentation and educational content
+- **Community Engagement**: Building developer communities and mentoring
 
 ---
 
@@ -158,6 +188,7 @@
 | **🎯 SaaS Success** | 10K+ Users | TrendPilot.pro serving content creators worldwide |
 | **🚀 Developer Tools** | 200+ Users | FastLaunchAPI.dev accelerating FastAPI development |
 | **👥 Community Impact** | Multiple Apps | Combined 10K+ active users across platforms |
+| **📺 Content Creator** | YouTube Channel | Teaching development to growing community |
 | **⭐ Open Source** | Multiple PRs | Contributor to Treetracker & other projects |
 | **🚀 Project Delivery** | 7+ Live Apps | End-to-end development & deployment |
 | **🤖 AI Innovation** | Deep Learning | Self-driving car with Raspberry Pi |
@@ -201,6 +232,7 @@
 |:---:|:---:|:---:|:---:|
 | Cutting-edge solutions using latest tech | Proven track record of shipped products | Strong team player & mentor | Continuous learner & adapter |
 | AI/ML integration expertise | Performance-optimized applications | Open source contributor | Always exploring new technologies |
+| Content creation & teaching | YouTube channel with tutorials | Community building experience | Sharing knowledge through education |
 
 </div>
 
@@ -208,9 +240,10 @@
 - **Real-World Impact**: Built applications serving thousands of users across multiple platforms
 - **SaaS Expertise**: Created TrendPilot.pro (AI content generation) and FastLaunchAPI.dev (developer productivity tools)
 - **Technical Versatility**: Full-stack capabilities from UI to AI/ML integration
+- **Content Creator**: Active YouTube channel teaching development concepts to the community
 - **Business Mindset**: Understanding of user needs, market requirements, and scalable monetization
 - **Quality Focus**: Clean, maintainable, and well-documented code
-- **Communication Skills**: Excellent at explaining complex technical concepts
+- **Communication Skills**: Excellent at explaining complex technical concepts through videos and tutorials
 
 ---
 
@@ -223,12 +256,16 @@
 - Full-stack development projects
 - AI/ML integration opportunities
 - Remote or hybrid work arrangements
+- Content collaboration opportunities
 
 <a href="mailto:niklas.developers@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/📧%20Schedule%20Interview-Let's%20Talk-success?style=for-the-badge&logoColor=white" height="40" alt="Email CTA"  />
 </a>
 <a href="https://www.linkedin.com/in/niklas-l-2279b1376" target="_blank">
   <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn CTA"  />
+</a>
+<a href="https://www.youtube.com/@niklasdoesdev" target="_blank">
+  <img src="https://img.shields.io/badge/📺%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="YouTube CTA"  />
 </a>
 <a href="https://niklasdev.pro" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Projects-FF6B6B?style=for-the-badge&logoColor=white" height="40" alt="Portfolio CTA"  />
