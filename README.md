@@ -63,7 +63,6 @@
 | **⚡ FastLaunchAPI.dev** | FastAPI, Docker, PostgreSQL | **Production-ready template** used by 200+ developers to ship 10x faster |
 | **🔤 Namenation** | React, Django, PostgreSQL | **10K+ users** discovering name histories with 95% user satisfaction |
 | **🚗 Autonomous Vehicle** | Python, TensorFlow, Raspberry Pi | **Award-winning** deep learning implementation for self-driving capabilities |
-| **🏥 Healthcare Platform** | Next.js, FastAPI, PostgreSQL | Streamlined health insurance education for **500+ students** |
 | **🌍 Geo Gaming Platform** | React, Django, Real-time APIs | **In Development** - Community-driven geographic challenge game |
 | **✅ Enterprise Todo System** | React, Django REST, Redis | Production-ready task management with advanced filtering & analytics |
 | **📺 YouTube Channel** | Content Creation, Teaching | **Growing community** of developers learning modern web development |
