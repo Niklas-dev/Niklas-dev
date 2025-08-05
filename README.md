@@ -1,4 +1,4 @@
-# 👨‍💻 Niklas | Full-Stack Engineer & AI Innovator
+# 👨‍💻 Niklas | Full-Stack Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=Full-Stack+Developer+%7C+Problem+Solver;AI+%26+Machine+Learning+Engineer;YouTube+Creator+%7C+Tech+Educator;Building+Tomorrow's+Digital+Solutions;Open+to+New+Opportunities+🚀" alt="Typing SVG" />
