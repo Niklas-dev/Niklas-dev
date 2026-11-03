@@ -7,7 +7,6 @@
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@niklasdoesdev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@niklasdoesdev)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-00D4FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niklas.developers@gmail.com)
 
 </div>
 
