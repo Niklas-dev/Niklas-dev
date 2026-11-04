@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-label="Hybrid simulation: A neural surrogate predicts how a system evolves; a router hands off to an exact simulator when confidence drops. 19 domains, one workstation, one GPU.">
+<style><![CDATA[
+text { font-family: 'Cascadia Code','JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .type { clip-path: none !important; }
+  .fade, .in, .boot { opacity: 1 !important; }
+}
+
+.row { opacity: .22; animation: row 5.5s ease-in-out infinite; }
+@keyframes row { 0% { opacity: .22; } 7% { opacity: 1; } 30% { opacity: .22; } 100% { opacity: .22; } }
+.scan { animation: scan 5.5s linear infinite; }
+@keyframes scan { 0% { transform: translateY(0); opacity: 0; } 6% { opacity: 1; } 88% { opacity: 1; } 100% { transform: translateY(110px); opacity: 0; } }
+.draw { stroke-dasharray: 100; stroke-dashoffset: 100; animation: draw 6s ease-in-out infinite; }
+@keyframes draw { 0% { stroke-dashoffset: 100; opacity: 1; } 45% { stroke-dashoffset: 0; } 88% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
+.end { opacity: 0; animation: end 6s ease-in-out infinite; }
+@keyframes end { 0%, 44% { opacity: 0; } 50%, 88% { opacity: 1; } 100% { opacity: 0; } }
+.fill { transform-origin: 4px 0; transform: scaleX(0); animation: fill 1.8s cubic-bezier(.2,.7,.2,1) .4s forwards; }
+@keyframes fill { to { transform: scaleX(.94); } }
+.type { clip-path: inset(0 100% 0 0); animation-name: type; animation-timing-function: steps(var(--n), end); animation-fill-mode: forwards; }
+@keyframes type { to { clip-path: inset(0 -2% 0 0); } }
+.fade { opacity: 0; animation: fin .4s ease-out forwards; }
+@keyframes fin { to { opacity: 1; } }
+.drift { animation: drift 9s ease-in-out infinite alternate; }
+@keyframes drift { to { transform: translate(3px, -2px); } }
+.mx { animation: mx 7s ease-in-out infinite; }
+@keyframes mx { 0%, 100% { transform: translate(0,0); } 8% { transform: translate(0,-1.5px); } 16% { transform: translate(0,0); } }
+.rec { animation: rec 2.4s ease-in-out infinite; }
+@keyframes rec { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+.track { animation: track 4s ease-in-out infinite alternate; }
+@keyframes track { to { transform: translate(5px, 3px); } }
+.led { animation: led 3.4s ease-in-out infinite; }
+@keyframes led { 0%, 100% { opacity: 1; } 50% { opacity: .2; } }
+.msg { animation: msg 3.2s linear infinite; }
+@keyframes msg { 0% { transform: translateX(8px); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateX(112px); opacity: 0; } }
+]]></style>
+
+<rect x=".5" y=".5" width="439" height="199" rx="8" fill="#090b0d" stroke="#1c2126"/>
+<text x="20.0" y="32.0" font-size="15" fill="#e6e8eb" font-weight="700">Hybrid simulation</text>
+<text x="420.0" y="31.0" font-size="10" fill="#8a9099" text-anchor="end">[research]</text>
+<text x="20.0" y="60.0" font-size="10.5" fill="#c2c7cd">A neural surrogate predicts how a system</text><text x="20.0" y="76.0" font-size="10.5" fill="#c2c7cd">evolves; a router hands off to an exact</text><text x="20.0" y="92.0" font-size="10.5" fill="#c2c7cd">simulator when confidence drops. 19</text><text x="20.0" y="108.0" font-size="10.5" fill="#c2c7cd">domains, one workstation, one GPU.</text>
+<text x="20.0" y="142.0" font-size="10" fill="#4f565e">pytorch · surrogate models · compute routing</text>
+<path d="M20 160H278" stroke="#1c2126"/>
+<text x="20.0" y="181.0" font-size="10.5" fill="#00ff87">&gt; 58x faster MD · 0.913 AUC on failures</text>
+<path d="M296 20V180" stroke="#1c2126"/>
+<g transform="translate(306,36)"><rect x="4" y="50" width="20" height="16" rx="2" fill="#0f1215" stroke="#1c2126"/><text x="14.0" y="61.0" font-size="8" fill="#8a9099" text-anchor="middle">q</text><rect x="40" y="48" width="36" height="20" rx="2" fill="#0f1215" stroke="#e6e8eb" stroke-opacity=".6"/><text x="58.0" y="61.0" font-size="7.5" fill="#e6e8eb" text-anchor="middle">router</text><rect x="92" y="16" width="26" height="16" rx="2" fill="#0f1215" stroke="#00ff87"/><text x="105.0" y="27.0" font-size="7.5" fill="#00ff87" text-anchor="middle">nn</text><rect x="92" y="84" width="26" height="16" rx="2" fill="#0f1215" stroke="#1c2126"/><text x="105.0" y="95.0" font-size="7.5" fill="#8a9099" text-anchor="middle">exact</text><path d="M24 58H40M76 58 92 24M76 58 92 92" stroke="#1c2126" stroke-width="1.2"/><circle r="2.4" fill="#00ff87"><animateMotion dur="2.4s" repeatCount="indefinite" path="M14 58 H58 L105 24"/></circle><circle r="2.4" fill="#e6e8eb"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite" path="M14 58 H58 L105 92"/></circle><text x="105.0" y="44.0" font-size="7" fill="#4f565e" text-anchor="middle">fast</text><text x="105.0" y="112.0" font-size="7" fill="#4f565e" text-anchor="middle">when unsure</text></g>
+
+</svg>

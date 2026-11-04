@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-label="ungdc-drift: Every UN General Debate speech since 1946, 11,141 of them, embedded and mapped. Region explains 59.7% of position; speech length explains 0.1%.">
+<style><![CDATA[
+text { font-family: 'Cascadia Code','JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .type { clip-path: none !important; }
+  .fade, .in, .boot { opacity: 1 !important; }
+}
+
+.row { opacity: .22; animation: row 5.5s ease-in-out infinite; }
+@keyframes row { 0% { opacity: .22; } 7% { opacity: 1; } 30% { opacity: .22; } 100% { opacity: .22; } }
+.scan { animation: scan 5.5s linear infinite; }
+@keyframes scan { 0% { transform: translateY(0); opacity: 0; } 6% { opacity: 1; } 88% { opacity: 1; } 100% { transform: translateY(110px); opacity: 0; } }
+.draw { stroke-dasharray: 100; stroke-dashoffset: 100; animation: draw 6s ease-in-out infinite; }
+@keyframes draw { 0% { stroke-dashoffset: 100; opacity: 1; } 45% { stroke-dashoffset: 0; } 88% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
+.end { opacity: 0; animation: end 6s ease-in-out infinite; }
+@keyframes end { 0%, 44% { opacity: 0; } 50%, 88% { opacity: 1; } 100% { opacity: 0; } }
+.fill { transform-origin: 4px 0; transform: scaleX(0); animation: fill 1.8s cubic-bezier(.2,.7,.2,1) .4s forwards; }
+@keyframes fill { to { transform: scaleX(.94); } }
+.type { clip-path: inset(0 100% 0 0); animation-name: type; animation-timing-function: steps(var(--n), end); animation-fill-mode: forwards; }
+@keyframes type { to { clip-path: inset(0 -2% 0 0); } }
+.fade { opacity: 0; animation: fin .4s ease-out forwards; }
+@keyframes fin { to { opacity: 1; } }
+.drift { animation: drift 9s ease-in-out infinite alternate; }
+@keyframes drift { to { transform: translate(3px, -2px); } }
+.mx { animation: mx 7s ease-in-out infinite; }
+@keyframes mx { 0%, 100% { transform: translate(0,0); } 8% { transform: translate(0,-1.5px); } 16% { transform: translate(0,0); } }
+.rec { animation: rec 2.4s ease-in-out infinite; }
+@keyframes rec { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+.track { animation: track 4s ease-in-out infinite alternate; }
+@keyframes track { to { transform: translate(5px, 3px); } }
+.led { animation: led 3.4s ease-in-out infinite; }
+@keyframes led { 0%, 100% { opacity: 1; } 50% { opacity: .2; } }
+.msg { animation: msg 3.2s linear infinite; }
+@keyframes msg { 0% { transform: translateX(8px); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateX(112px); opacity: 0; } }
+]]></style>
+
+<rect x=".5" y=".5" width="439" height="199" rx="8" fill="#090b0d" stroke="#1c2126"/>
+<text x="20.0" y="32.0" font-size="15" fill="#e6e8eb" font-weight="700">ungdc-drift</text>
+<text x="420.0" y="31.0" font-size="10" fill="#8a9099" text-anchor="end">[research]</text>
+<text x="20.0" y="60.0" font-size="10.5" fill="#c2c7cd">Every UN General Debate speech since</text><text x="20.0" y="76.0" font-size="10.5" fill="#c2c7cd">1946, 11,141 of them, embedded and mapped.</text><text x="20.0" y="92.0" font-size="10.5" fill="#c2c7cd">Region explains 59.7% of position;</text><text x="20.0" y="108.0" font-size="10.5" fill="#c2c7cd">speech length explains 0.1%.</text>
+<text x="20.0" y="142.0" font-size="10" fill="#4f565e">sentence-transformers · umap · pca</text>
+<path d="M20 160H278" stroke="#1c2126"/>
+<text x="20.0" y="181.0" font-size="10.5" fill="#00ff87">&gt; 11,141 speeches · 1946 to 2025</text>
+<path d="M296 20V180" stroke="#1c2126"/>
+<g transform="translate(306,36)"><g class="drift" style="animation-delay:0.0s"><circle cx="21.7" cy="74.0" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="34.7" cy="65.9" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="29.0" cy="66.2" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="37.7" cy="83.4" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="39.5" cy="78.5" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="32.8" cy="80.0" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="24.8" cy="83.0" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="21.2" cy="79.5" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="34.9" cy="82.4" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="27.1" cy="97.3" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="30.4" cy="77.9" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="31.1" cy="78.3" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="27.3" cy="79.5" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/><circle cx="44.2" cy="82.2" r="1.9" fill="#e6e8eb" fill-opacity="0.35"/></g><g class="drift" style="animation-delay:-1.7s"><circle cx="47.2" cy="42.7" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="60.1" cy="36.4" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="41.6" cy="55.3" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="35.8" cy="35.4" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="50.7" cy="54.0" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="39.4" cy="21.0" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="50.6" cy="34.3" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="43.3" cy="41.2" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="47.6" cy="40.0" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="43.0" cy="47.0" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="56.5" cy="38.2" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/><circle cx="42.8" cy="43.1" r="1.9" fill="#e6e8eb" fill-opacity="0.6"/></g><g class="drift" style="animation-delay:-3.4s"><circle cx="91.3" cy="42.7" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="84.8" cy="57.3" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="87.3" cy="47.7" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="89.5" cy="49.8" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="88.0" cy="36.5" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="100.2" cy="51.4" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="81.9" cy="56.9" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="90.2" cy="50.1" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="95.3" cy="65.8" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="91.9" cy="61.1" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="103.1" cy="42.9" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="84.3" cy="55.4" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/><circle cx="76.0" cy="48.1" r="1.9" fill="#e6e8eb" fill-opacity="0.85"/></g><g class="drift" style="animation-delay:-5.1s"><circle cx="91.1" cy="101.3" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="86.1" cy="80.7" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="98.5" cy="97.9" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="87.4" cy="97.5" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="70.0" cy="84.0" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="73.5" cy="107.4" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="76.2" cy="92.3" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="80.2" cy="98.0" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="85.5" cy="95.9" r="1.9" fill="#00ff87" fill-opacity="0.9"/><circle cx="73.2" cy="72.0" r="1.9" fill="#00ff87" fill-opacity="0.9"/></g><g class="drift" style="animation-delay:-6.8s"><circle cx="63.2" cy="21.9" r="1.9" fill="#e6e8eb" fill-opacity="0.45"/><circle cx="70.6" cy="19.3" r="1.9" fill="#e6e8eb" fill-opacity="0.45"/><circle cx="57.7" cy="22.9" r="1.9" fill="#e6e8eb" fill-opacity="0.45"/><circle cx="51.1" cy="12.7" r="1.9" fill="#e6e8eb" fill-opacity="0.45"/><circle cx="55.0" cy="22.0" r="1.9" fill="#e6e8eb" fill-opacity="0.45"/><circle cx="76.6" cy="25.3" r="1.9" fill="#e6e8eb" fill-opacity="0.45"/></g></g>
+
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img" aria-label="exit">
+<style><![CDATA[
+text { font-family: 'Cascadia Code','JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .type { clip-path: none !important; }
+  .fade, .in, .boot { opacity: 1 !important; }
+}
+
+.cur { animation: cur 1.1s steps(1) infinite; }
+@keyframes cur { 50% { opacity: 0; } }
+]]></style>
+
+<rect x=".5" y=".5" width="899" height="39" rx="8" fill="#090b0d" stroke="#1c2126"/>
+<text x="20.0" y="25.0" font-size="12" xml:space="preserve"><tspan fill="#00ff87">niklas@dev</tspan><tspan fill="#8a9099">:</tspan><tspan fill="#e6e8eb">~</tspan><tspan fill="#00ff87"> $ </tspan><tspan fill="#e6e8eb">exit </tspan><tspan class="cur" fill="#00ff87">█</tspan></text>
+<text x="880.0" y="25.0" font-size="10.5" fill="#4f565e" text-anchor="end">// eof  ·  banners are hand-made svg, see tools/</text>
+
+</svg>
